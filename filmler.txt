@@ -1,0 +1,12 @@
+KORKU FİLMLERİ LİSTESİ
+
+Film Şablonu:
+-------------
+Film Adı:
+Yayın Yılı:
+IMDB Puanı:
+Tür:
+Özet:
+Poster URL:
+
+-------------
